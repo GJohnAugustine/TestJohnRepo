@@ -1,0 +1,6 @@
+@TestWebAPIForAPIM_HostAddress = http://localhost:5278
+
+GET {{TestWebAPIForAPIM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
